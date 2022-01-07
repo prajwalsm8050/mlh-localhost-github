@@ -52,6 +52,7 @@ The App reads its locations from the `locations.txt` file located in the root fo
 New York, USA
 Brazil
 Japan
+India
 ```
 
 To add a new location, simply append a new line to the locations.txt file
